@@ -1,2 +1,27 @@
-# cybersecurity-portfolio
-A collection of my cybersecurity projects and hands-on labs focused on Microsoft Sentinel, Defender, and KQL. Includes threat detection rules, hunting queries, and research on malicious documents.
+# Azure SOC Lab – Security Monitoring Project
+
+This project demonstrates a home Security Operations Center (SOC) lab built using Microsoft Azure and Microsoft Sentinel.
+
+The purpose of this lab is to simulate cyber attacks, collect security logs and detect malicious behaviour using SIEM detection rules.
+
+Technologies used:
+
+• Microsoft Sentinel (SIEM)
+
+• Azure Virtual Machine
+
+• Log Analytics Workspace
+
+• KQL (Kusto Query Language)
+
+• Windows Event Logs
+
+Lab capabilities:
+
+• Log ingestion from Windows VM
+
+• Detection of brute-force login attempts
+
+• Security alert investigation
+
+• Mapping attacker behaviour using MITRE ATT&CK
