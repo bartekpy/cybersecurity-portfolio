@@ -4,7 +4,7 @@ This project demonstrates a home Security Operations Center (SOC) lab built usin
 
 The purpose of this lab is to simulate cyber attacks, collect security logs and detect malicious behaviour using SIEM detection rules.
 
-Technologies used:
+## Technologies Used
 
 • Microsoft Sentinel (SIEM)
 
@@ -16,7 +16,7 @@ Technologies used:
 
 • Windows Event Logs
 
-Lab capabilities:
+## Lab Capabilities
 
 • Log ingestion from Windows VM
 
