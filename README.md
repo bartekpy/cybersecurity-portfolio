@@ -37,3 +37,14 @@ The diagram below illustrates the data flow within the SOC lab environment.
 <img width="650" height="1136" alt="image" src="https://github.com/user-attachments/assets/0bdbd002-cdea-4f66-9b08-5bdbdcb9e298" />
 
 </p>
+
+## Lab Setup
+
+The SOC lab environment was deployed in Microsoft Azure using the following components:
+
+### Resource Group
+
+A dedicated resource group was created to manage all resources related to the SOC lab environment.
+
+
+
