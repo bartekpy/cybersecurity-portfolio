@@ -25,3 +25,15 @@ The purpose of this lab is to simulate cyber attacks, collect security logs and 
 • Security alert investigation
 
 • Mapping attacker behaviour using MITRE ATT&CK
+
+
+## Architecture
+
+The SOC lab environment was built in Microsoft Azure and consists of a monitored Windows virtual machine sending security logs to Microsoft Sentinel.
+
+The diagram below illustrates the data flow within the SOC lab environment.
+
+<p align="center">  
+<img width="650" height="1136" alt="image" src="https://github.com/user-attachments/assets/0bdbd002-cdea-4f66-9b08-5bdbdcb9e298" />
+
+</p>
