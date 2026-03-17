@@ -41,12 +41,26 @@ The diagram below illustrates the data flow within the SOC lab environment.
 ## Lab Setup
 
 The SOC lab environment was deployed in Microsoft Azure using the following components:
+<br>
+<br>
+<br>
 
 ### Resource Group
 
 A dedicated resource group was created to manage all resources related to the SOC lab environment.
 
 <img width="3507" alt="image" src="https://github.com/user-attachments/assets/48b33477-8d89-443f-983f-e8c5a4c15bcf" />
+<br>
+<br>
+<br>
+
+### Log Analytics Workspace
+
+Log Analytics Workspace was deployed to store and analyse security logs collected from the monitored virtual machine.
+
+<img width="1601" height="316" alt="image" src="https://github.com/user-attachments/assets/42d60a17-bc67-4e2e-b13d-e7d9971126ea" />
+
+
 
 
 
