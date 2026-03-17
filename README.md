@@ -48,8 +48,9 @@ The SOC lab environment was deployed in Microsoft Azure using the following comp
 ### Resource Group
 
 A dedicated resource group was created to manage all resources related to the SOC lab environment.
-
-<img width="3507" alt="image" src="https://github.com/user-attachments/assets/48b33477-8d89-443f-983f-e8c5a4c15bcf" />
+<p align="centre">
+<img width="900"  src="https://github.com/user-attachments/assets/48b33477-8d89-443f-983f-e8c5a4c15bcf" />
+</p>  
 <br>
 <br>
 <br>
@@ -58,7 +59,20 @@ A dedicated resource group was created to manage all resources related to the SO
 
 Log Analytics Workspace was deployed to store and analyse security logs collected from the monitored virtual machine.
 
-<img width="1601" height="316" alt="image" src="https://github.com/user-attachments/assets/42d60a17-bc67-4e2e-b13d-e7d9971126ea" />
+<p align="centre">
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/42d60a17-bc67-4e2e-b13d-e7d9971126ea" />
+</p>
+<br>
+<br>
+<br>
+
+### Microsoft Sentinel
+
+Microsoft Sentinel was enabled on top of the Log Analytics Workspace to analyse collected security logs and detect suspicious activity.
+
+<p align="center">
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/0cb6338c-bd8c-46fe-a2c0-7cbcd2608888" />
+</p>
 
 
 
